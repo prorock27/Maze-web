@@ -2230,6 +2230,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: wall_with_roof
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 296
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db696e2539b5b64ea8f6eb9a89e195c
+      internalID: 525820937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2285,7 +2306,6 @@ TextureImporter:
       knife_1: -1023260950
       knife_2: 27581323
       knife_3: 1126802292
-      maze_sprites_0: -445661590
       maze_sprites_15: -1425005639
       maze_sprites_16: -2044578892
       maze_sprites_17: -1616178126
@@ -2343,6 +2363,7 @@ TextureImporter:
       mob_0: -1227259190
       portal_blue: -982556107
       portal_green: 870752870
+      wall_with_roof: -445661590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
